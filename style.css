@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background-color: #FFF5E1;
+}
+
+header {
+    background-color: #FFD1DC;
+    padding: 15px;
+    text-align: center;
+}
+
+nav {
+    margin: 10px 0;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.card {
+    width: 30%;
+    margin: 1%;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+button {
+    background: pink;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+/* 手機版 */
+@media(max-width:768px){
+    .card {
+        width: 100%;
+    }
+}
