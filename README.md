@@ -24,3 +24,5 @@ https://gigi0516.github.io/clothing-site/
 - 金流串接（綠界 / Line Pay）
 - Firebase後台
 - SEO優化
+
+##客戶同步資料的後台網址
