@@ -25,5 +25,5 @@ https://gigi0516.github.io/clothing-site/
 - Firebase後台
 - SEO優化
 
-##客戶同步資料的後台網址
+## 客戶同步資料的後台網址
 https://github.com/gigi0516/clothing-site.git
